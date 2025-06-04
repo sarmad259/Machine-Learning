@@ -2,13 +2,6 @@
 
 This repository contains the code and manual for the Machine Learning course lab task, focusing on data preprocessing, model training, and evaluation.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Requirements](#requirements)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Manual](#manual)
 
 ## Introduction
 
